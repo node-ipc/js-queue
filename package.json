@@ -31,5 +31,6 @@
   "homepage": "https://github.com/node-ipc/js-queue#readme",
   "dependencies": {
     "easy-stack": "1.0.1"
-  }
+  },
+  "packageManager": "yarn@3.2.0"
 }
