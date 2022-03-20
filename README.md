@@ -19,17 +19,15 @@ Works great in node.js, webpack, browserify, or any other commonjs loader or com
 
 **npm install js-queue**
 
-npm info :  [See npm trends and stats for js-queue](http://npm-stat.com/charts.html?package=js-queue&author=&from=&to=)  
-![js-queue npm version](https://img.shields.io/npm/v/js-queue.svg) ![supported node version for js-queue](https://img.shields.io/node/v/js-queue.svg) ![total npm downloads for js-queue](https://img.shields.io/npm/dt/js-queue.svg) ![monthly npm downloads for js-queue](https://img.shields.io/npm/dm/js-queue.svg) ![npm licence for js-queue](https://img.shields.io/npm/l/js-queue.svg)
-
-[![RIAEvangelist](https://avatars3.githubusercontent.com/u/369041?v=3&s=100)](https://github.com/RIAEvangelist)
+npm info :  [See npm trends and stats for js-queue](http://npm-stat.com/charts.html?package=@node-ipc/js-queue&author=&from=&to=)  
+![js-queue npm version](https://img.shields.io/npm/v/js-queue.svg) ![supported node version for js-queue](https://img.shields.io/node/v/js-queue.svg) ![total npm downloads for js-queue](https://img.shields.io/npm/dt/js-queue.svg) ![monthly npm downloads for @node-ipc/js-queue](https://img.shields.io/npm/dm/@node-ipc/js-queue.svg) ![npm licence for @node-ipc/js-queue](https://img.shields.io/npm/l/@node-ipc/js-queue.svg)
 
 GitHub info :  
-![js-queue GitHub Release](https://img.shields.io/github/release/RIAEvangelist/js-queue.svg) ![GitHub license js-queue license](https://img.shields.io/github/license/RIAEvangelist/js-queue.svg) ![open issues for js-queue on GitHub](https://img.shields.io/github/issues/RIAEvangelist/js-queue.svg)
+![js-queue GitHub Release](https://img.shields.io/github/release/node-ipc/js-queue.svg) ![GitHub license js-queue license](https://img.shields.io/github/license/node-ipc/js-queue.svg) ![open issues for js-queue on GitHub](https://img.shields.io/github/issues/node-ipc/js-queue.svg)
 
 Package details websites :
-* [GitHub.io site](http://riaevangelist.github.io/js-queue/ "js-queue documentation"). A prettier version of this site.
-* [NPM Module](https://www.npmjs.org/package/js-queue "js-queue npm module"). The npm page for the js-queue module.
+* [GitHub.io site](http://node-ipc.github.io/js-queue/ "js-queue documentation"). A prettier version of this site.
+* [NPM Module](https://www.npmjs.org/package/@node-ipc/js-queue "js-queue npm module"). The npm page for the js-queue module.
 
 This work is licenced via the MIT Licence.
 

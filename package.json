@@ -1,6 +1,6 @@
 {
-  "name": "js-queue",
-  "version": "2.0.2",
+  "name": "@node-ipc/js-queue",
+  "version": "2.0.3",
   "description": "Simple JS queue with auto run for node and browsers",
   "main": "queue.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RIAEvangelist/js-queue.git"
+    "url": "git+https://github.com/node-ipc/js-queue.git"
   },
   "keywords": [
     "queue",
@@ -26,10 +26,10 @@
   "author": "Brandon Nozaki Miller",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RIAEvangelist/js-queue/issues"
+    "url": "https://github.com/node-ipc/js-queue/issues"
   },
-  "homepage": "https://github.com/RIAEvangelist/js-queue#readme",
+  "homepage": "https://github.com/node-ipc/js-queue#readme",
   "dependencies": {
-    "easy-stack": "^1.0.1"
+    "easy-stack": "1.0.1"
   }
 }
